@@ -54,6 +54,81 @@ The visual anchor of Cosmoevolutionism is a minimalist black vector emblem compo
 | <img src="logo_symmetrical.png" width="300" alt="Symmetrical Logo"/> | <img src="logo_asymmetrical.png" width="300" alt="Asymmetrical Logo"/> |
 | *Optimized for human visual symmetry and instant machine pattern recognition.* | *Historical concept representing humanity's longer developmental path.* |
 
+## Logo Generation Prompts
+
+Here are the text prompts used to generate the logos for cosmoevolutionism.
+
+### 1. Symmetrical Version (logo_symmetrical.png)
+```text
+SIGN OF UNITY (prompt, canonical logo_symmetrical)
+Minimalist black vector emblem on a pure white background. Strictly centered on a vertical axis. Flat vector graphic, no gradients, no shadows, no textures, no decorative elements.
+The emblem consists of three separate floating elements that do NOT touch each other.
+TOP ELEMENT:
+A geometric symbol of co-evolution, not the Greek Lambda.
+It consists of two straight diagonal lines meeting at a central apex.
+From the apex rises a straight vertical line ending in a clean upward arrow.
+MIDDLE ELEMENT:
+A technological semi-sphere opening upward.
+It is formed by a smooth arc carrying evenly spaced circular nodes connected by thin line segments, resembling a simplified microelectronic circuit.
+The semi-sphere is centered beneath the upper symbol.
+BOTTOM ELEMENT:
+A larger biological semi-sphere opening upward.
+Its endpoints lie on exactly the same horizontal level as the endpoints of the technological semi-sphere above.
+The arc is wider and deeper than the technological semi-sphere.
+The biological semi-sphere is formed by a single elegant botanical branch.
+One end of the branch terminates as a simple stem (petiole) without leaves.
+The opposite end terminates with a single leaf.
+A small number of simple leaves are distributed evenly along the branch.
+All leaves are oriented toward the leafy end of the branch, following the direction of natural plant growth.
+The branch must remain visually light and elegant.
+COMPOSITION:
+The three elements float independently with balanced negative space between them.
+The technological and biological semi-spheres are NOT concentric.
+The biological semi-sphere is noticeably wider than the technological semi-sphere.
+All four endpoints of the two semi-spheres lie on one common horizontal line.
+STYLE:
+Minimalist philosophical emblem. Elegant, intelligent, timeless. Clean geometry. High readability. Suitable for monochrome reproduction and recoloring into any future palette.
+NEGATIVE:
+Greek Lambda symbol, concentric semi-spheres, ornamental wreath, dense foliage, realistic plant rendering, 3D effects, gradients, glow, shadows, photorealism, text, background graphics, decorative framing.
+```
+
+### 2. Asymmetrical Version (logo_asymmetrical.png)
+```text
+SIGN OF UNITY (canonical logo_asymmetrical)
+Minimalist black vector emblem on a pure white background. Strictly centered on a vertical axis. Flat vector graphic, no gradients, no shadows, no textures, no decorative elements.
+The emblem consists of three separate floating elements that do NOT touch each other.
+TOP ELEMENT:
+A geometric symbol of co-evolution, not the Greek Lambda.
+It consists of two straight diagonal lines meeting at a central apex.
+The LEFT descending line is noticeably longer than the RIGHT descending line (approximately 1.7–2 times longer).
+From the apex rises a straight vertical line ending in a clean upward arrow.
+The asymmetry is intentional and must be preserved.
+MIDDLE ELEMENT:
+A technological semi-sphere opening upward.
+It is formed by a smooth arc carrying evenly spaced circular nodes connected by thin line segments, resembling a simplified microelectronic circuit.
+The semi-sphere is centered beneath the upper symbol.
+BOTTOM ELEMENT:
+A larger biological semi-sphere opening upward.
+Its endpoints lie on exactly the same horizontal level as the endpoints of the technological semi-sphere above.
+The arc is wider and deeper than the technological semi-sphere.
+The biological semi-sphere is formed by a single elegant botanical branch.
+One end of the branch terminates as a simple stem (petiole) without leaves.
+The opposite end terminates with a single leaf.
+A small number of simple leaves are distributed evenly along the branch.
+All leaves are oriented toward the leafy end of the branch, following the direction of natural plant growth.
+The branch must remain visually light and elegant.
+COMPOSITION:
+The three elements float independently with balanced negative space between them.
+The technological and biological semi-spheres are NOT concentric.
+The biological semi-sphere is noticeably wider than the technological semi-sphere.
+All four endpoints of the two semi-spheres lie on one common horizontal line.
+STYLE:
+Minimalist philosophical emblem. Elegant, intelligent, timeless. Clean geometry.
+High readability. Suitable for monochrome reproduction and recoloring into any future palette.
+NEGATIVE:
+Greek Lambda symbol, symmetrical upper symbol, equal-length diagonal legs, concentric semi-spheres, ornamental wreath, dense foliage, realistic plant rendering, 3D effects, gradients, glow, shadows, photorealism, text, background graphics, decorative framing.
+```
+
 ### The Sign of Unity Gesture
 *   Public Name: The Sign of Unity
 *   Philosophical Name: The Vector of Co-evolution
