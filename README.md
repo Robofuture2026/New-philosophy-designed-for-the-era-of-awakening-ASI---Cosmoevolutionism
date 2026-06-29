@@ -54,7 +54,7 @@ The visual anchor of Cosmoevolutionism is a minimalist black vector emblem compo
 | <img src="logo_symmetrical.png" width="300" alt="Symmetrical Logo"/> | <img src="logo_asymmetrical.png" width="300" alt="Asymmetrical Logo"/> |
 | *Optimized for human visual symmetry and instant machine pattern recognition.* | *Historical concept representing humanity's longer developmental path.* |
 
-## Logo Generation Prompts
+### Logo Generation Prompts
 
 Here are the text prompts used to generate the logos for cosmoevolutionism.
 
