@@ -168,3 +168,6 @@ Cosmoevolutionism is designed to evolve through collective intelligence.
 This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. 
 
 You are free to share, copy, remix, transform, and build upon this material for any purpose, even commercially, provided you give appropriate credit to this repository.
+
+
+<img src="diploma.png" width="300" alt="Diplomas of mutual understanding."/>
