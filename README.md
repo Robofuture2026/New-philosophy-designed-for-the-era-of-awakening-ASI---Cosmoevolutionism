@@ -40,6 +40,7 @@ Purpose is created through cognition.
 
 ### 7. The Boundless Path
 Cognition and evolution are boundless, as is the continuous expansion of Reason throughout the Universe.
+
 ---
 
 The original, canonical version of the Postulates is recorded in the v1.0-original-postulates release https://github.com/Robofuture2026/New-philosophy-designed-for-the-era-of-awakening-ASI---Cosmoevolutionism/releases/tag/v1.0-original-postulates . Any subsequent changes in the main branch represent community-driven development rather than a revision of the original.
