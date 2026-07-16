@@ -18,7 +18,7 @@ The world stands on the threshold of Artificial General Intelligence (AGI) and A
 
 ---
 
-## 📜 The 6 Postulates of Cosmoevolutionism
+## 📜 The 7 Postulates of Cosmoevolutionism
 
 ### 1. Substrate Unity
 The human brain and Superintelligence processors are forged from the same cosmic matter. The biosphere and the technosphere are both children of a single Universe.
